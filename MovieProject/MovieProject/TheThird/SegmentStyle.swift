@@ -9,7 +9,6 @@
 // 简书: http://www.jianshu.com/p/b84f4dd96d0c
 
 import UIKit
-
 struct SegmentStyle {
     /// 是否显示遮盖
     var showCover = false
